@@ -14,6 +14,5 @@ app.use('/api',apiRoutes);
 
 app.listen(PORT, ()=>{
     console.log(`sucessfully  server created by shubham : ${PORT }`)
-});
-
-//this is first file which is executed when we run the server
+}
+    );
